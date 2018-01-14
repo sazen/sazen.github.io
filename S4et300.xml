@@ -1,0 +1,98 @@
+﻿<settings>
+  <type>bar</type>
+  <decimals_separator>.</decimals_separator>
+  <background>
+    <alpha>100</alpha>
+    <border_alpha>15</border_alpha>
+  </background>
+  <plot_area>
+    <margins>
+      <right>50</right>
+      <top>50</top>
+      <bottom>50</bottom>
+    </margins>
+  </plot_area>
+  <grid>
+    <category>
+      <dashed>1</dashed>
+    </category>
+    <value>
+      <dashed>1</dashed>
+    </value>
+  </grid>
+  <axes>
+    <category>
+      <width>1</width>
+    </category>
+    <value>
+      <width>1</width>
+    </value>
+  </axes>
+  <values>
+    <value>
+      <enabled>0</enabled>
+      <min>-4</min>
+      <max>4</max>
+      <strict_min_max>1</strict_min_max>
+    </value>
+  </values>
+  <balloon>
+    <enabled>0</enabled>
+    <alpha>61</alpha>
+  </balloon>
+  <depth>0</depth>
+  <column>
+    <width>85</width>
+    <grow_time>3</grow_time>
+  </column>
+  <graphs>
+    <graph gid="0">
+      <visible_in_legend>0</visible_in_legend>
+    </graph>
+    <graph gid="1">
+      <title>Column</title>
+      <color>7F8DA9</color>
+    </graph>
+    <graph gid="2">
+      <title>Line</title>
+      <color>FEC514</color>
+    </graph>
+  </graphs>
+  <labels>
+    <label lid="0">
+      <text>[-]</text>
+      <x>292</x>
+      <y>250</y>
+    </label>
+    <label lid="1">
+      <text>[+]</text>
+      <x>235</x>
+      <y>250</y>
+    </label>
+    <label lid="2">
+      <text>[+]</text>
+      <x>354</x>
+      <y>250</y>
+    </label>
+    <label lid="3">
+      <text>[++]</text>
+      <x>413</x>
+      <y>250</y>
+    </label>
+    <label lid="4">
+      <text>[++]</text>
+      <x>176</x>
+      <y>250</y>
+    </label>
+    <label lid="5">
+      <text>[+++]</text>
+      <x>472</x>
+      <y>250</y>
+    </label>
+    <label lid="6">
+      <text>[+++]</text>
+      <x>117</x>
+      <y>250</y>
+    </label>
+  </labels>
+</settings>
